@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  margin: 20px;
+}
+.searchbox {
+  position: relative;
+  left: 65%;
+}
+.searchbox input {
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  border-bottom: 2px solid grey;
+}
+
+table {
+  margin-bottom: 40px;
+}
+
+table th {
+  padding: 12px 81px;
+  background-color: lightseagreen;
+}
+
+table td {
+  text-align: center;
+  border: 1px solid grey;
+  padding: 5px;
+}

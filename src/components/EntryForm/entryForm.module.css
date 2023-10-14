@@ -1,0 +1,21 @@
+.container {
+  background-color: lightgrey;
+  padding: 35px;
+}
+
+label {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+  margin-right: 20px;
+}
+
+.box {
+  margin: 20px;
+}
+
+div button {
+  padding: 3px;
+  margin: 5px;
+  cursor: pointer;
+}
